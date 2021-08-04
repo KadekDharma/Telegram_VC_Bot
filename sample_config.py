@@ -18,11 +18,11 @@ if HEROKU:
 
 # NOTE Fill this if you are not deploying on heroku.
 if not HEROKU:
-    API_ID = 14371
-    API_HASH = "e46b6c854d2bf58a0"
-    ARQ_API_KEY = "Get this from @ARQRobot"
-    CHAT_ID = -100546355432
-    DEFAULT_SERVICE = "saavn"  # Must be one of "youtube"/"saavn"
+    API_ID = "7693805"
+    API_HASH = "9119a2d0d247cec7a3063b13b663effe"
+    ARQ_API_KEY = "WWQTKT-XFMJOT-HPMRFX-GOUUWS-ARQ"
+    CHAT_ID = "-1001180648994"
+    DEFAULT_SERVICE = "youtube"  # Must be one of "youtube"/"saavn"
 
 # don't make changes below this line
 ARQ_API = "https://thearq.tech"
